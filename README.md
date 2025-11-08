@@ -8,3 +8,5 @@
 - [VueJs](https://vuejs.org/) `Ferramenta de desenvolvimento frontend com componentes`
 - [Tailwind](https://tailwindcss.com/) `Ferramenta de estilização frontend com base em classes css`
 - [Daisyui](https://daisyui.com/) `Biblioteca de componentes prontos baseado em tailwind`
+- [TanStack Query](https://tanstack.com/query/latest) `Gerencia estados reativos ao chamar requisições HTTP(S)`
+- [Axios](https://axios-http.com/ptbr/docs/intro) `Gerencia chamadas HTTP(S) de forma mais eficiente`
