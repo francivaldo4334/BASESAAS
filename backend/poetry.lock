@@ -64,6 +64,24 @@ files = [
 django = ">=4.2"
 
 [[package]]
+name = "django-vite"
+version = "3.1.0"
+description = "Integration of Vite in a Django project."
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "django_vite-3.1.0-py3-none-any.whl", hash = "sha256:4e46572bd6b1ce70784be129205dc2ffcbc7a3c19fea50bebfb72b327bbde5fc"},
+    {file = "django_vite-3.1.0.tar.gz", hash = "sha256:8b4ffe4a9fa81ff568bfb195e74dde8694aaf13fd4b656ae60bf59cce08b85e8"},
+]
+
+[package.dependencies]
+Django = ">=3.2"
+
+[package.extras]
+dev = ["black"]
+
+[[package]]
 name = "djangorestframework"
 version = "3.16.1"
 description = "Web APIs for Django, made easy."
@@ -432,4 +450,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "3.11"
-content-hash = "6b68afc1cebd5f10bb7d8907a951917bc2af7e729300dd3253a284572e234529"
+content-hash = "b81c22828f8dd46623602e3bc9c2a49f4e5754d1e02d929f3bb5000041a86671"

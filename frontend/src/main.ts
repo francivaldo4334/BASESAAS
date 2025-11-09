@@ -5,6 +5,7 @@ import App from './App.vue'
 import router from './router'
 import "./style.css"
 import { VueQueryPlugin } from '@tanstack/vue-query'
+import 'vite/modulepreload-polyfill';
 
 const app = createApp(App)
 
