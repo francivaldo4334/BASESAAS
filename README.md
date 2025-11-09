@@ -10,3 +10,4 @@
 - [Daisyui](https://daisyui.com/) `Biblioteca de componentes prontos baseado em tailwind`
 - [TanStack Query](https://tanstack.com/query/latest) `Gerencia estados reativos ao chamar requisições HTTP(S)`
 - [Axios](https://axios-http.com/ptbr/docs/intro) `Gerencia chamadas HTTP(S) de forma mais eficiente`
+- [Django Vite](https://github.com/MrBin99/django-vite) `Integra o Django com o frontend Vue ao usar o vite para servir os aquivos estaticos`
