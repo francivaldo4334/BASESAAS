@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "drf_spectacular",
     "django_vite",
     "core",
+    "hello",
 ]
 
 MIDDLEWARE = [
